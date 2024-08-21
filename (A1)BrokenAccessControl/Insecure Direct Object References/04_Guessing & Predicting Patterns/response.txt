@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Connection: keep-alive
+Transfer-Encoding: chunked
+Content-Type: application/json
+Date: Wed, 21 Aug 2024 02:48:42 GMT
+
+{
+  "lessonCompleted" : true,
+  "feedback" : "Congratulations, you have used the alternate Url\\/route to view your own profile.",
+  "output" : "{role=3, color=yellow, size=small, name=Tom Cat, userId=2342384}",
+  "assignment" : "IDORViewOwnProfileAltUrl",
+  "attemptWasMade" : true
+}
