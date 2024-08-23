@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Connection: keep-alive
+Transfer-Encoding: chunked
+Content-Type: application/json
+Date: Thu, 22 Aug 2024 00:00:57 GMT
+
+{
+  "lessonCompleted" : true,
+  "feedback" : "Congratulations. You have successfully completed the assignment.",
+  "output" : "<span class='feedback-positive'>UPDATE Employees SET department = 'Sales' WHERE first_name='Tobi';<\\/span><table><tr><th>USERID<\\/th><th>FIRST_NAME<\\/th><th>LAST_NAME<\\/th><th>DEPARTMENT<\\/th><th>SALARY<\\/th><th>AUTH_TAN<\\/th><\\/tr><tr><td>89762<\\/td><td>Tobi<\\/td><td>Barnett<\\/td><td>Sales<\\/td><td>77000<\\/td><td>TA9LL1<\\/td><\\/tr><\\/table>",
+  "assignment" : "SqlInjectionLesson3",
+  "attemptWasMade" : true
+}

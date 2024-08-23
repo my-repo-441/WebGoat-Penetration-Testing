@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Connection: keep-alive
+Transfer-Encoding: chunked
+Content-Type: application/json
+Date: Thu, 22 Aug 2024 00:04:03 GMT
+
+{
+  "lessonCompleted" : false,
+  "feedback" : "Sorry the solution is not correct, please try again.",
+  "output" : "object name already exists in statement [ALTER TABLE employees ADD COLUMN phone varchar(20)]",
+  "assignment" : "SqlInjectionLesson4",
+  "attemptWasMade" : true
+}
